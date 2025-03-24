@@ -59,12 +59,14 @@ http://stream.tvcdn.net/eglence/trt-2.m3u8
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" tvg-id="TRTBelgesel.tr",TRT Belgesel
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/225px-CNN_T%C3%BCrk_logo.svg.png" tvg-id="CNNTURK.tr",CNN Turk
+http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/2305/index.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" tvg-id="AHaber.tr",A Haber
 https://canlitvulusal.xyz/live/ahaber/index.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" tvg-id="ASpor.tr",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=35VUdJ7Msg5AnhIydlxRAQ&e=1742498242
+http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/2309/index.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" tvg-id="cartoon",Cartoon Network
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" tvg-id="animal-planet-eu",Animal Planet

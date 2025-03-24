@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz, http://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" tvg-id="IdmanTV.az",İdman TV
 https://str.yodacdn.net/idman/index.m3u8
 #EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" tvg-id="ARB.az",ARB
@@ -101,13 +101,13 @@ http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/232/index.m3u8
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/512/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/prikluchenia-hd.png" tvg-id="prikluchenia-hd",Приключения
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/920/index.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="pervy",Первый
+#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="ort-hd",Первый
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="ntv",НТВ
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="rentv",Рен ТВ
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="rossia1",Россия
+#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="rossiya-hd",Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/mir.png" tvg-id="mir",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -121,7 +121,7 @@ http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/237/index.m3u8
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/6370/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rbk.png" tvg-id="rbk",РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" tvg-id="360-podmoskovie",360°
+#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" tvg-id="podmoskovie",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" tvg-id="nastoyaschee-vremia",Настоящее время
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/986/index.m3u8
@@ -157,7 +157,7 @@ http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/154/index.m3u8
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/744/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/extreme-sports.png" tvg-id="extreme-sports",Extreme Sports
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/144/index.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/eurosport1.png" tvg-id="eurosport1",Eurosport
+#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/eurosport1.png" tvg-id="esp-hd",Eurosport
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/228/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png" tvg-id="match-tv",Матч! Футбол 1
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/222/index.m3u8

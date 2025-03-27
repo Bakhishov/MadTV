@@ -1,34 +1,36 @@
 #EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz, http://epg.tvcdn.net/guide/tr-guide.xml"
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" tvg-id="IdmanTV.az",İdman TV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" tvg-id="IdmanTV.az",İdman TV
 https://str.yodacdn.net/idman/index.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" tvg-id="ARB.az",ARB
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" tvg-id="ARB24.az",ARB 24
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/b8/ARB_G%C3%BCn%C9%99%C5%9F.png" tvg-id="ARBGunes.az",ARB Günəş
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/AzTV_Logo_2019.svg/1200px-AzTV_Logo_2019.svg.png" tvg-id="AzTV.az",AzTV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" tvg-id="ARB.az",ARB
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2187/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" tvg-id="ARB24.az",ARB 24
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2188/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/b8/ARB_G%C3%BCn%C9%99%C5%9F.png" tvg-id="ARBGunes.az",ARB Günəş
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2189/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/AzTV_Logo_2019.svg/1200px-AzTV_Logo_2019.svg.png" tvg-id="AzTV.az",AzTV
 https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/150px-Azad_Azerbaycan_TV_logosu.png" tvg-id="AzadTV.az",Azad Azərbaycan
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/150px-Azad_Azerbaycan_TV_logosu.png" tvg-id="AzadTV.az",Azad Azərbaycan
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/330px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az",BakuTV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/0/04/CBC_Sport_TV_loqo.png/150px-CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az",CBC Sport
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/330px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az",BakuTV
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/16047/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/0/04/CBC_Sport_TV_loqo.png/150px-CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png/150px-D%C3%BCnya_TV_%282019-h.h.%29.png" tvg-id="DunyaTV.az",Dünya TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b4/%C4%B0ctimai_TV.png/150px-%C4%B0ctimai_TV.png" tvg-id="itv.az",İctimai TV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png/150px-D%C3%BCnya_TV_%282019-h.h.%29.png" tvg-id="DunyaTV.az",Dünya TV
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2192/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b4/%C4%B0ctimai_TV.png/150px-%C4%B0ctimai_TV.png" tvg-id="itv.az",İctimai TV
 https://node19.connect.az:9081/tv/live/playlist.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png/450px-M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" tvg-id="MedeniyyetTV.az",Mədəniyyət TV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png/450px-M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" tvg-id="MedeniyyetTV.az",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Space_TV_loqosu_%282021-2023%29.png/263px-Space_TV_loqosu_%282021-2023%29.png" tvg-id="SpaceTV.az",Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="https://www.xezertv.az/images/logo.png" tvg-id="XezerTV.az",Xəzər TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-id="",Real TV
-http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
-#EXTINF:-1  group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" tvg-id="",CBC
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Space_TV_loqosu_%282021-2023%29.png/263px-Space_TV_loqosu_%282021-2023%29.png" tvg-id="SpaceTV.az",Space TV
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2190/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://www.xezertv.az/images/logo.png" tvg-id="XezerTV.az",Xəzər TV
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2199/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-id="",Real TV
+https://str.yodacdn.net/real/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" tvg-id="",CBC
 http://stream.tvcdn.net/azerbaycan/cbc.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://epg.one/img/9128.png" tvg-id="ATVCinema",ATV Cinema
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2120/index.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" tvg-id="ATV.tr",ATV
 https://trkvz.daioncdn.net/atv/atv.m3u8?app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0
 #EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" tvg-id="KanalD.tr",Kanal D

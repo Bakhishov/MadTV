@@ -13,11 +13,11 @@ https://str.yodacdn.net/aztv/index.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/330px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az",BakuTV
 http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/16047/index.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/0/04/CBC_Sport_TV_loqo.png/150px-CBC_Sport_TV_loqo.png" tvg-id="2636",CBC Sport
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/0/04/CBC_Sport_TV_loqo.png/150px-CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png/150px-D%C3%BCnya_TV_%282019-h.h.%29.png" tvg-id="DunyaTV.az",Dünya TV
 http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2192/index.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b4/%C4%B0ctimai_TV.png/150px-%C4%B0ctimai_TV.png" tvg-id="2555",İctimai TV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b4/%C4%B0ctimai_TV.png/150px-%C4%B0ctimai_TV.png" tvg-id="itv.az",İctimai TV
 https://node19.connect.az:9081/tv/live/playlist.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png/450px-M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" tvg-id="MedeniyyetTV.az",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
@@ -26,7 +26,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2190/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://www.xezertv.az/images/logo.png" tvg-id="XezerTV.az",Xəzər TV
 http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2199/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-id="",Real TV
-https://str.yodacdn.net/real/index.m3u8
+http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" tvg-id="",CBC
 http://stream.tvcdn.net/azerbaycan/cbc.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://epg.one/img/9128.png" tvg-id="ATVCinema",ATV Cinema
@@ -108,7 +108,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="ntv",НТВ
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="rentv",Рен ТВ
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2024/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="rossiya-hd",Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/mir.png" tvg-id="mir",Мир

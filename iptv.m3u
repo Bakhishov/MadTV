@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz, http://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" tvg-id="IdmanTV.az",İdman TV
-https://str.yodacdn.net/idman/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/16044/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" tvg-id="ARB.az",ARB
 http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2187/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" tvg-id="ARB24.az",ARB 24
@@ -10,7 +10,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2189/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/AzTV_Logo_2019.svg/1200px-AzTV_Logo_2019.svg.png" tvg-id="AzTV.az",AzTV
 https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/150px-Azad_Azerbaycan_TV_logosu.png" tvg-id="AzadTV.az",Azad Azərbaycan
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/16045/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/330px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az",BakuTV
 http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/16047/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/0/04/CBC_Sport_TV_loqo.png/150px-CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az",CBC Sport
@@ -28,7 +28,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2199/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-id="",Real TV
 http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" tvg-id="",CBC
-http://stream.tvcdn.net/azerbaycan/cbc.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2196/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://epg.one/img/9128.png" tvg-id="ATVCinema",ATV Cinema
 http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/2120/index.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" tvg-id="ATV.tr",ATV

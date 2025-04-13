@@ -179,5 +179,19 @@ http://rhsbjv7k.tvclub.xyz/iptv/MY7QDRSA32QT38/156/index.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/900px-TV-3_logo_%282015%29.png" tvg-id="tv3",ТВ3
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/5033/index.m3u8
-#EXTINF:-1 group-title="Films" tvg-logo="https://static.hdrezka.ac/i/2025/4/9/y29efa0c5cd61hn10z42c.jpg" tvg-id="tv3",Kino
-https://proton.stream.voidboost.cc/0adfdfa0960e397dd5c83b5c90d0de06:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbWt5emJXVC9xaEpvekJUM1YvYVBRUUE9PQ==/1/2/5/4/6/4/6/vfv94.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Атом" tvg-logo="https://static.hdrezka.ac/i/2025/2/28/l47d0e64e90f3rk49n97d.jpg",Серия 1
+https://atomic.stream.voidboost.cc/3eb58ea8f48e3b30a26f26fb619d1f9b:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbVRlbTZxU0lxMGtjOHNpZk00NW1NeFE9PQ==/1/2/2/8/8/5/3/vffu5.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Атом" tvg-logo="https://static.hdrezka.ac/i/2025/2/28/l47d0e64e90f3rk49n97d.jpg",Серия 2
+https://atlas.stream.voidboost.cc/d7bad500a03c3f4e1fcfa4bfc6ea7e4e:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbS9JZnJVRjNHeThrY3ZMVlZoZGgxZUE9PQ==/1/2/2/8/8/5/5/nlmti.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Атом" tvg-logo="https://static.hdrezka.ac/i/2025/2/28/l47d0e64e90f3rk49n97d.jpg",Серия 3
+https://relax.stream.voidboost.cc/648d6afe960a2360cdab89fe65ef90bf:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbUpTNjFmME9HaC9TaUlMZkh6aVN1eFE9PQ==/1/2/2/8/8/5/2/50uo6.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Атом" tvg-logo="https://static.hdrezka.ac/i/2025/2/28/l47d0e64e90f3rk49n97d.jpg",Серия 4
+https://glory.stream.voidboost.cc/aefb2f2b6b652ae19adddecfc998594e:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbXYzaHNINTBaVEI5YUU5SEVrbnJvOWc9PQ==/1/2/2/8/8/5/6/kpunh.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Атом" tvg-logo="https://static.hdrezka.ac/i/2025/2/28/l47d0e64e90f3rk49n97d.jpg",Серия 5
+https://nika.stream.voidboost.cc/301d827aa0f95d9034bca725276a6735:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbVhoakxWSUcwM1RpTzBKQmx6YkpvN0E9PQ==/1/2/3/5/6/2/4/mvpkn.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Атом" tvg-logo="https://static.hdrezka.ac/i/2025/2/28/l47d0e64e90f3rk49n97d.jpg",Серия 6
+https://gemini.stream.voidboost.cc/d081bff9b811c5f5b6994f53aeaa24d2:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbW5zS2RmdWZ6WnRrT1dHaERsWnhWUGc9PQ==/1/2/3/5/6/2/5/q0k46.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Атом" tvg-logo="https://static.hdrezka.ac/i/2025/2/28/l47d0e64e90f3rk49n97d.jpg",Серия 7
+https://turbo.stream.voidboost.cc/738b32be518e6b57fa2d4651b72faa4b:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbVRBMnM4UHVJdmx6cXJLQ2NyS3M2Mmc9PQ==/1/2/3/5/6/2/6/uhiz7.mp4:hls:manifest.m3u8
+#EXTINF:0 group-title="Атом" tvg-logo="https://static.hdrezka.ac/i/2025/2/28/l47d0e64e90f3rk49n97d.jpg",Серия 8
+https://fenris.stream.voidboost.cc/0c505ebc383d9017ac4cbf61c699f56b:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbWM1V1c5dGYxRE1rOE5iTEZaZ1FlL3c9PQ==/1/2/3/5/6/2/7/y7cms.mp4:hls:manifest.m3u8

@@ -179,3 +179,5 @@ http://rhsbjv7k.tvclub.xyz/iptv/MY7QDRSA32QT38/156/index.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/900px-TV-3_logo_%282015%29.png" tvg-id="tv3",ТВ3
 http://prokazov.ottolok.net/iptv/B7M2RPXVSXVQ4L/5033/index.m3u8
+#EXTINF:-1 group-title="Films" tvg-logo="https://static.hdrezka.ac/i/2025/4/9/y29efa0c5cd61hn10z42c.jpg" tvg-id="tv3",Kino
+https://proton.stream.voidboost.cc/0adfdfa0960e397dd5c83b5c90d0de06:2025041406:L2VMaFplY1NFZ0FBYnZMejlEVXcySFRLQUlmU2FxL1ZFdnpuR1VHbWEvQ1RtWnM4bGs3enVFUVBHb2hmM1BsbWt5emJXVC9xaEpvekJUM1YvYVBRUUE9PQ==/1/2/5/4/6/4/6/vfv94.mp4:hls:manifest.m3u8

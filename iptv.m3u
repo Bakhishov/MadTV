@@ -36,7 +36,7 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" tvg-id="KanalD.tr",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" tvg-id="ShowTV.tr",Show TV
-https://canlitvulusal.xyz/live/showmax/index.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" tvg-id="Kanal7.tr",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" tvg-id="StarTV.tr",Star TV
@@ -61,8 +61,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/225px-CNN_T%C3%BCrk_logo.svg.png" tvg-id="CNNTURK.tr",CNN Turk
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/6926/index.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" tvg-id="AHaber.tr",A Haber
-https://b.fulltvizle.com/ahaber/playlist.m3u8
+#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png"tvg-id="KralPopTV.tr",Kral TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" tvg-id="ASpor.tr",A Spor
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
@@ -74,7 +74,7 @@ http://45.159.74.22/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/300px-2018_Travel_Channel_logo.svg.png",Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel",Discovery
-http://45.159.74.22/DiscoveryChannel/tracks-v1a2/mono.m3u8
+http://158.160.149.81:8080/3465/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/da-vinci.png" tvg-id="DaVinciKids.eu",Da Vinci
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" tvg-id="natgeo_hd",National Geographic
@@ -110,7 +110,7 @@ http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/64/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1_Kids_%28%D1%81_%D0%B8%D1%8E%D0%BB%D1%8F_2018%29.png" tvg-id="sts",СТС Kids
 http://178.217.72.66:8080/ctc_kids_hd/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="tnt",ТНТ
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NjY5NjQ1OCwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2MDkxNjU4LCJzZXNzaW9uX2lkIjoiYmEyZDQzMTIwYjBkYzRlYTgxZTYzNWQ1Y2M4NjNhYmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ea40cF64BROdyhMNmayouDZWdExgOHnUNGA36zhbe04
 #EXTINF:-1 group-title="Русский" tvg-logo="https://www.cableman.ru/sites/default/files/tnt4_logo_2022_flat.png" tvg-id="tnt",ТНТ4
 http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rbk.png" tvg-id="rbk",РБК
@@ -140,9 +140,11 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч! Футбол 1
-http://45.11.139.43:8555/fut1/index.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="http://1lot.tv/ch/1402.png" tvg-id="match-tv",Матч! Футбол 3
-http://185.57.68.33:80/110/index.m3u8
+https://mhd128.iptv2022.com/p/B76pHAMDLeikwViCBTQu-A,1756155623/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч! Футбол 2
+https://mhd128.iptv2022.com/p/QmX0LYqOU4Y-PAmVETFbNA,1756155624/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч! Футбол 3
+https://mhd128.iptv2022.com/p/v0GuK4XkQmVCWTyryGuxVg,1756155624/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9C%D1%83%D0%BB%D1%8C%D1%82_logo.jpg/300px-%D0%9C%D1%83%D0%BB%D1%8C%D1%82_logo.jpg" tvg-id="mult",Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/7/73/Ani_%28Russia%29_%282015%29.svg/revision/latest/scale-to-width-down/340?cb=20210223010527" tvg-id="ani",Ani
@@ -151,5 +153,3 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 http://178.134.1.158:8081/nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_KARUSEL_2023.png/300px-Logo_KARUSEL_2023.png",Карусель
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/900px-TV-3_logo_%282015%29.png" tvg-id="tv3",ТВ3
-https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8

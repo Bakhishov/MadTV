@@ -110,7 +110,7 @@ http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/64/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1_Kids_%28%D1%81_%D0%B8%D1%8E%D0%BB%D1%8F_2018%29.png" tvg-id="sts",СТС Kids
 http://178.217.72.66:8080/ctc_kids_hd/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="tnt",ТНТ
-http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NjY5NjQ1OCwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2MDkxNjU4LCJzZXNzaW9uX2lkIjoiYmEyZDQzMTIwYjBkYzRlYTgxZTYzNWQ1Y2M4NjNhYmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ea40cF64BROdyhMNmayouDZWdExgOHnUNGA36zhbe04
+https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://www.cableman.ru/sites/default/files/tnt4_logo_2022_flat.png" tvg-id="tnt",ТНТ4
 http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rbk.png" tvg-id="rbk",РБК

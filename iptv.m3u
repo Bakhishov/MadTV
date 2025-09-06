@@ -139,7 +139,7 @@ http://45.159.74.22:80/Kinokhit/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://ramnet.ru/tv/logo/000002655.png" tvg-id="muzhskoe-kino",Мужское кино
 http://77.235.1.19:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://ramnet.ru/tv/logo/000002655.png" tvg-id="indiyskoe-kino",Индийское кино
+#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Indiankino_logo.png" tvg-id="indiyskoe-kino",Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8

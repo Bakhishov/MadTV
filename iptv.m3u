@@ -74,7 +74,7 @@ http://45.159.74.22/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/300px-2018_Travel_Channel_logo.svg.png",Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel",Discovery
-http://158.160.149.81:8080/3465/index.m3u8
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/da-vinci.png" tvg-id="DaVinciKids.eu",Da Vinci
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" tvg-id="natgeo_hd",National Geographic
@@ -137,6 +137,10 @@ http://45.159.74.22/Kinopremera/tracks-v1a1/mono.m3u8
 http://45.159.74.22:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="ntv-serial",НТВ Сериал
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://ramnet.ru/tv/logo/000002655.png" tvg-id="muzhskoe-kino",Мужское кино
+http://77.235.1.19:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://ramnet.ru/tv/logo/000002655.png" tvg-id="indiyskoe-kino",Индийское кино
+http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч! Футбол 1

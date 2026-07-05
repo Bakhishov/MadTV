@@ -1,86 +1,86 @@
 #EXTM3U url-tvg="https://epg.ottservice.org/download/epg.xml.gz, http://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://admin.aztv.az/userfiles/files/4AA0BSfjB7Kev11a29qo.png" tvg-id="IdmanTV.az",İdman TV
-http://rhsbjv7k.tvclub.xyz/iptv/DWCPNKUKWA5A25/16044/index.m3u8
+https://str.yodacdn.net/idmantele/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" tvg-id="ARB.az",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/ARB_24_logo1.png" tvg-id="ARB24.az",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/b8/ARB_G%C3%BCn%C9%99%C5%9F.png" tvg-id="ARBGunes.az",ARB Günəş
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/AzTV_Logo_2019.svg/1200px-AzTV_Logo_2019.svg.png" tvg-id="AzTV.az",AzTV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/azerbaijan/az-tv-tr.png" tvg-id="AzTV.az",AzTV
 https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/150px-Azad_Azerbaycan_TV_logosu.png" tvg-id="AzadTV.az",Azad Azərbaycan
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" tvg-id="AzadTV.az",Azad Azərbaycan
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/330px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az",BakuTV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/0/04/CBC_Sport_TV_loqo.png/150px-CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az",CBC Sport
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png/150px-D%C3%BCnya_TV_%282019-h.h.%29.png" tvg-id="DunyaTV.az",Dünya TV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" tvg-id="DunyaTV.az",Dünya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/b/b4/%C4%B0ctimai_TV.png/150px-%C4%B0ctimai_TV.png" tvg-id="itv.az",İctimai TV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://i.imgur.com/HzY4VMo.png" tvg-id="itv.az",İctimai TV
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png/450px-M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" tvg-id="MedeniyyetTV.az",Mədəniyyət TV
-https://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Space_TV_loqosu_%282021-2023%29.png/263px-Space_TV_loqosu_%282021-2023%29.png" tvg-id="SpaceTV.az",Space TV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/azerbaijan/medeniyyet-tv-tr.png" tvg-id="MedeniyyetTV.az",Mədəniyyət TV
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Space_TV_loqosu_%282021-2023%29.png" tvg-id="SpaceTV.az",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://www.xezertv.az/images/logo.png" tvg-id="XezerTV.az",Xəzər TV
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://www.xezerxeber.az/images/logo-header.png" tvg-id="XezerTV.az",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-id="9128" tvg-logo="http://epg.one/img/9128.png" tvg-rec="3",ATV Cinema AZ
 http://rhsbjv7k.tvclub.xyz/iptv/DWCPNKUKWA5A25/2120/index.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" tvg-id="",CBC
-http://rhsbjv7k.tvclub.xyz/iptv/DWCPNKUKWA5A25/1050/index.m3u8
+#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" tvg-id="",CBC
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/97/APA_TV_loqo.png?20140813190719" tvg-id="APATv.az@SD",APA TV
-http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" tvg-id="ATV.tr",ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" tvg-id="KanalD.tr",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" tvg-id="ShowTV.tr",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" tvg-id="Kanal7.tr",Kanal 7
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" tvg-id="ATV.tr",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d-tr.png" tvg-id="KanalD.tr",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" tvg-id="ShowTV.tr",Show TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" tvg-id="Kanal7.tr",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" tvg-id="StarTV.tr",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" tvg-id="360.tr",360 TV
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" tvg-id="StarTV.tr",Star TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/360-tr.png" tvg-id="360.tr",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" tvg-id="HaberGlobal.tr",Haber Global
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png" tvg-id="HaberGlobal.tr",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" tvg-id="HaberturkTV.tr",HaberTürk
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dmax-de.png" tvg-id="DMAX.tr",DMAX
 
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" tvg-id="HaberturkTV.tr",HaberTürk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" tvg-id="DMAX.tr",DMAX
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" tvg-id="TLC.tr",TLC
 
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" tvg-id="TLC.tr",TLC
-
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" tvg-id="TRT1.tr",TRT 1
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" tvg-id="TRT1.tr",TRT 1
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/6883/index.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" tvg-id="TRT2.tr",TRT 2
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" tvg-id="TRT2.tr",TRT 2
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/6884/index.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" tvg-id="TRTHaber.tr",TRT Haber
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" tvg-id="TRTHaber.tr",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" tvg-id="TRTBelgesel.tr",TRT Belgesel
-
-#EXTINF:-1 group-title="Турецкий" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/225px-CNN_T%C3%BCrk_logo.svg.png" tvg-id="CNNTURK.tr",CNN Turk
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" tvg-id="CNNTURK.tr",CNN Turk
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/6926/index.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png"tvg-id="KralPopTV.tr",Kral TV
+#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kral-pop-tr.png" tvg-id="KralPopTV.tr",Kral TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" tvg-id="ASpor.tr",A Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW
-http://116.202.238.88/FOXTV_TR/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" tvg-id="cartoon",Cartoon Network
-http://46.8.46.14/Cartoon_Network/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" tvg-id="animal-planet-eu",Animal Planet
 http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/300px-2018_Travel_Channel_logo.svg.png",Travel Channel
-
+#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/travel-adventure.png" tvg-id="travel-adventure",Travel+Adventure
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel",Discovery HD
 http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/da-vinci.png" tvg-id="DaVinciKids.eu",Da Vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" tvg-id="natgeo_hd",National Geographic
-
+#EXTINF:-1 group-title="Русский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" tvg-id="natgeo_hd",National Geographic
+http://185.102.171.218/NatGeo/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://cdn.epg.one/img2/807.png" tvg-id="Nat Geo Wild HD",Nat Geo Wild
-
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/nano-hd.png" tvg-id="nano-hd",Nano HD
 http://193.33.88.172/nano_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/history.png" tvg-id="history",History HD
@@ -88,9 +88,9 @@ http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/idxtra.png" tvg-id="id-xtra-eu",Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://cdn.epg.one/img2/1036.png" tvg-id="История",История 
-http://93.125.121.61:8383/play/a018
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/TV_Nauka.jpg/300px-TV_Nauka.jpg" tvg-id="nauka",Наука
-http://93.125.121.61:8383/play/Intelsat85k311
+http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/nauka.png" tvg-id="nauka",Наука
+http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://www.cableman.ru/sites/default/files/avto24.png" tvg-id="avto24",Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="ort-hd",Первый
@@ -98,7 +98,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="ntv",НТВ
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="rentv",Рен ТВ
-http://95.47.156.60:8000/play/11/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=rentv
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="rossiya-hd",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/mir.png" tvg-id="mir",Мир
@@ -106,18 +106,18 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/domashny.png" tvg-id="domashny",Домашний
 http://193.33.88.172/domashniy_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/sts.png" tvg-id="sts",СТС
-http://94.230.128.107:8080/CTC/index.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/64/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%A2%D0%A1_Kids_%28%D1%81_%D0%B8%D1%8E%D0%BB%D1%8F_2018%29.png" tvg-id="sts",СТС Kids
+http://31.148.48.15/STS/index.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/sts-kids-ru.png" tvg-id="sts",СТС Kids
 http://178.124.153.123:44400/stskids
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="tnt",ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
+http://31.148.48.15/TNT/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://www.cableman.ru/sites/default/files/tnt4_logo_2022_flat.png" tvg-id="tnt",ТНТ4
-http://178.212.71.253:8000/play/106/index.m3u8
+http://31.148.48.15/TNT4/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/rbk.png" tvg-id="rbk",РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" tvg-id="podmoskovie",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/11/Peretz.png" tvg-rec="7" timeshift="7",Перец
+#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/perec.png" tvg-rec="7" timeshift="7",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/sts-love.png" tvg-id="sts-love",СТС Love
 http://31.148.48.15/STS_Love/index.m3u8
@@ -130,9 +130,9 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/amedia-premium.png" tvg-id="amedia-premium",Amedia Premium
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/domkino.png" tvg-id="domkino",Дом Кино
-http://46.8.46.14/domkino/index.m3u8
+http://31.148.48.15/Dom_Kino/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://cdn.epg.one/img2/566.png" tvg-id="Кинопремьера HD",Кинопремьера
-http://193.33.88.172/premiera/tracks-v1a1/mono.m3u8
+http://31.148.48.15/Kinopremiera_HD/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://cdn.epg.one/img2/542.png" tvg-id="Кинохит HD",Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="ntv-serial",НТВ Сериал
@@ -141,19 +141,19 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Indiankino_logo.png" tvg-id="indiyskoe-kino",Индийское кино
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч!
-http://193.33.88.172/match_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч! Футбол 1
-http://193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч! Футбол 2
-http://193.33.88.172/football2_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png" tvg-id="match-tv",Матч! Футбол 3
-http://193.33.88.172/football3_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9C%D1%83%D0%BB%D1%8C%D1%82_logo.jpg/300px-%D0%9C%D1%83%D0%BB%D1%8C%D1%82_logo.jpg" tvg-id="mult",Мульт
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-ru.png" tvg-id="match-tv",Матч!
+http://31.148.48.15/Match_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-arena-ru.png" tvg-id="match-arena",Матч! Арена
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-igra-ru.png" tvg-id="match-igra",Матч! Игра
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/match-boets-ru.png" tvg-id="match-boec",Матч! Боец
+http://31.148.48.15/Match_Boec/index.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://iptvx.one/picons/mult.png" tvg-id="mult",Мульт
+http://31.148.48.15/Mult_HD/index.m3u8
 #EXTINF:-1 group-title="Русский" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/7/73/Ani_%28Russia%29_%282015%29.svg/revision/latest/scale-to-width-down/340?cb=20210223010527" tvg-id="ani",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/375px-Nickelodeon_2023_logo_%28outline%29.svg.png" tvg-id="nickelod-hd",Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Русский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_KARUSEL_2023.png/300px-Logo_KARUSEL_2023.png",Карусель
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-id="nickelod-hd",Nickelodeon
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 group-title="Русский" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/karusel-ru.png",Карусель
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8

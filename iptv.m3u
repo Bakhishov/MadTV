@@ -13,8 +13,6 @@ https://str.yodacdn.net/azertv/index.m3u8
 https://str.yodacdn.net/atv/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/330px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az",BakuTV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az",CBC Sport
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" tvg-id="DunyaTV.az",Dünya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://i.imgur.com/HzY4VMo.png" tvg-id="itv.az",İctimai TV
@@ -25,17 +23,12 @@ https://str.yodacdn.net/medeniyyettele/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://www.xezerxeber.az/images/logo-header.png" tvg-id="XezerTV.az",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-id="9128" tvg-logo="http://epg.one/img/9128.png" tvg-rec="3",ATV Cinema AZ
-http://rhsbjv7k.tvclub.xyz/iptv/DWCPNKUKWA5A25/2120/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" tvg-id="",CBC
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/97/APA_TV_loqo.png?20140813190719" tvg-id="APATv.az@SD",APA TV
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://vilayet.tv/wp-content/uploads/2023/03/cropped-logo-270x270.png" tvg-id="VilayetTV.az",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="https://i.imgur.com/ZvNpHTj.png" tvg-id="SaharAzeri.ir",Səhər TV
-https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8
-#EXTINF:-1 group-title="Азербайджанский" tvg-logo="" tvg-id="",Kanal 14
 
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" tvg-id="ATV.tr",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
@@ -59,8 +52,6 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" tvg-id="TRT1.tr",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" tvg-id="TRT2.tr",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" tvg-id="TRTHaber.tr",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Турецкий" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" tvg-id="TRTBelgesel.tr",TRT Belgesel
